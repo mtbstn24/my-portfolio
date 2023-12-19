@@ -776,7 +776,7 @@ strong {
   background: var(--white-color);
   border-top-right-radius: var(--border-radius-small);
   border-bottom-right-radius: var(--border-radius-small);
-  padding: 60px 30px 30px 30px;
+  padding: 30px 30px 30px 30px;
   height: 100%;
 }
 
