@@ -135,8 +135,8 @@ a:hover {
 }
 
 .section-padding {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 b,
@@ -608,12 +608,13 @@ strong {
 -----------------------------------------*/
 
 .clients-item-height {
-	height: 120px;
+	height: 100px;
 }
 
 .clients-image {
   display: block;
-  max-width: 100px;
+  max-width: 80px;
+  max-height: 80px;
   margin: auto;
   transition: all ease 0.2s;
 }
@@ -1030,8 +1031,8 @@ strong {
   }
 
   .section-padding {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 60px;
+    padding-bottom: 60px;
   }
 
   .custom-btn,
